@@ -8,7 +8,7 @@ Contact me to discuss projects and co-operation:
 
 Telegram: https://t.me/petrukhinadaria
 
-Почта: dariapetrukhina@inbox.ru
+Email: dariapetrukhina@inbox.ru
 
 ### 🚀 Looking for Opportunities
 I am open to new projects and willing to contribute to the team. If you are looking for a data analyst, please, contact me!
