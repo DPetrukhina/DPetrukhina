@@ -24,6 +24,8 @@ Python, pyspark, pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, fol
 - 📆 Jun.2024 - now
 - 📍 **Bell Integrator, Moscow**
 
+----------------------------------
+
 - 👩‍💻 **Consultant**
 - 📆 Jun.2021 - Jan.2023
 - 📍 **Technologies of Trust, Moscow**
