@@ -1,7 +1,7 @@
 ### About me
 I'am a Data Analyst from Russia with experience in cohort analysis, unit-economy analysis, product metrics, statistical analysis
 ### Stack
-Python, pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, folium, requests, SQL, PostgreSQL, Tableau, A/B tests, ICE, RICE
+Python, pyspark, pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, folium, requests, SQL, PostgreSQL, Tableau, A/B tests, ICE, RICE
 
 <details>
   <summary>📃 Resume </summary>
